@@ -1,5 +1,5 @@
 ## ϑ𐑞　Hello! My name is Pia　𓎢𓎟𓎡 ૮ ྀི⳿ ◞ ◟ 𑁬ྀི
-i
+Software engineering student focused on learning, building, and growing as a developer. Currently exploring software design, databases, and full-stack development while turning ideas into real projects.
 <!--
 **pialebxia/pialebxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
