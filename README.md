@@ -1,5 +1,5 @@
 ## ϑ𐑞　Hello, I am Pia!　𓎢𓎟𓎡 ૮ ྀི⳿ ◞ ◟ 𑁬ྀི
-Software engineering student focused on learning, building, and growing as a developer. Currently studying software design, databases, full-stack development and turn my ideas into real projects. ૮ ˶ᵔ ᵕ ᵔ˶ ა
+Software engineering student focused on learning, building, and growing as a developer. Currently studying software design, databases, full-stack development and turn my ideas into real projects! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 <!--
 **pialebxia/pialebxia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
